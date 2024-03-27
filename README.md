@@ -1,5 +1,5 @@
 Hi there. I'm Thi Truong - a researcher, engineer, and generally hobbyist maker and enjoyer of stuff. 
-I was born and raised in Vietnam and currently, I’m over at Georgia Tech diving into the world of Computer Science. This site documents much of my thoughts and what I have done in my life in terms of career and creative pursuits.
+I was born and raised in Vietnam and now, I’m over at Georgia Tech diving into the world of Computer Science. This site documents much of my thoughts and what I have done in my life in terms of career and creative pursuits.
 
 If you are curious, I am more specifically interested in:
 - AI/machine learning (increasingly, the deep kind)
