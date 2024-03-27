@@ -85,10 +85,10 @@
 81.	Go on a blind date.
 82.	Act in a movie.
 83.	See the Mona Lisa in Louvre.
-84.	Shoot an AK-47
+84.	Shoot an AK-47.
 85.	Drive Route 66.
-86. Drive an F1 vehicle
-87. Eat at a 3-star Michelin restaurant
+86. Drive an F1 vehicle.
+87. Eat at a 3-star Michelin restaurant.
 88. Star a fire without matches.
 89. Watch sunset in the Sahara desert.
 90. Visit The Wizarding World of Harry Potter theme park in Florida.
