@@ -3,7 +3,6 @@ I was born and raised in Vietnam and now, I’m over at Georgia Tech diving into
 
 If you are curious, I am more specifically interested in:
 - AI/machine learning (increasingly, the deep kind)
-- robotics (particularly, intelligent robotics that can interact with humans)
 - fish (to the point I learn scuba diving just to see more of them)
 - books (science, history, some pre-modernist)
 - programming (especially embedded programming)
