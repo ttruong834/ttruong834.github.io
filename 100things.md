@@ -1,4 +1,4 @@
-# List 100
+# 100 Things
 *"It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested."* - Seneca
 
 100 things I want to do in life (not in any particular order)
