@@ -1,7 +1,7 @@
 # List 100
 
 ** 100 things I want to do in life (not in any particular order) **
-1.	- [x] Live in a foreign country. 
+1.	[x] Live in a foreign country. 
 2.	See the Northern Lights.
 3.	Dive with sharks.
 4.	- [x] Learn a new language.
