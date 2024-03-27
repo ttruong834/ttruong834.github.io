@@ -11,7 +11,7 @@
 7.	Start my own business.
 8.	Get a PhD in Computer Science or Psychology.
 9.	Dive in the Great Barrier Reef.
-10.	Jump out of a plan.
+10.	Jump out of a plane.
 11.	Be financial freedom. 
 12.	☑️ Learn to skateboard.
 13.	Travel to all seven continents.
