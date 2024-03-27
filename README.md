@@ -11,6 +11,6 @@ If you are curious, I am more specifically interested in:
 
 ## Latest Posts
 
-### [100 things](LINK_TO_POST_1)
+### [100 things](100things.md)
 *Date: 2024-03-26*  
 Here's a list of 100 things I want to do in life (not in a particular order).
