@@ -11,6 +11,6 @@ If you are curious, I am more specifically interested in:
 
 ## Latest Posts
 
-### [100 things](https://github.com/ttruong834/ttruong834.github.io/blob/main/100things.md)
+### [100 things](https://www.about-thi.com/100things.html)
 *Date: 2024-03-26*  
 Here's a list of 100 things I want to do in life (not in a particular order).
