@@ -72,13 +72,13 @@
 68.	Build a saltwater aquarium.
 69.	Do 20 pull-ups.
 70.	☑️ Fall in love.
-71.	Go white water rafting.
+71.	☑️ Go white water rafting.
 72.	Meet Yuval Noah Harari.
 73.	Meet the Pope.
 74.	Go on a Safari in Africa.
 75.	☑️ Learn to play chess.
 76.	Learn to sail.
-77.	Visit the Great Wall of China.
+77.	Visit The Wizarding World of Harry Potter theme park in Florida.
 78.	Become an astronaut.
 79.	Ride in a Gondola in Venice.
 80.	Get my brother the coolest pickup truck.
@@ -91,8 +91,7 @@
 87. Eat at a 3-star Michelin restaurant.
 88. Star a fire without matches.
 89. Watch sunset in the Sahara desert.
-90. Visit The Wizarding World of Harry Potter theme park in Florida.
-91. Be decision driven. 
-92. Be resilient.
-93. Be happy.
+90. Be decision driven. 
+91. Be resilient.
+92. Be happy.
     
