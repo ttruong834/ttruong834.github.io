@@ -14,5 +14,5 @@ If you are curious, I am more specifically interested in:
 Here's a list of 100 things I want to do in life (not in a particular order).
 ### [My Depression](https://www.about-thi.com/myMental.html)
 My personal experience with depression.
-### [On My Mental Health](https://www.about-thi.com/myMental.html)
+### [On My Mental Health](https://www.about-thi.com/Depression101.html)
 and some thoughts.
