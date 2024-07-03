@@ -23,7 +23,7 @@
 19.	Attend Winter X-Games.
 20.	☑️ Watch a meteor shower. 
 21.	Experience zero gravity.
-22.	Go scuba diving.
+22.	☑️ Go scuba diving.
 23.	☑️ Learn a material art.
 24.	Try wine tasting in Napa Valley.
 25.	Learn how to fly a helicopter.
@@ -37,7 +37,7 @@
 33.	Read 1000 books. (~157)
 34.	Hike at Yosemite National Park.
 35.	Master a magic trick.
-36.	Travel with my dad.
+36.	☑️ Travel with my dad.
 37.	Take a yoga class in India.
 38.	Visit Jerusalem.
 39.	Publish a Java package.
